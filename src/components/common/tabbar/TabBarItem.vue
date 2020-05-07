@@ -18,7 +18,7 @@
       },
       activeColor: {
         type: String,
-        default: '#13227a'
+        default: '#1296db'
       }
     },
     data() {
@@ -47,7 +47,7 @@
     flex: 1;
     text-align: center;
     height: 49px;
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .tab-bar-item img {

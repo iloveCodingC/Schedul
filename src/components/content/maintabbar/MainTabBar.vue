@@ -10,10 +10,10 @@
       <img slot="item-icon-active" src="~assets/img/tabbar/appointment_active.svg" alt="">
       <div slot="item-text">预约</div>
     </tab-bar-item>
-    <tab-bar-item path="/order">
-      <img slot="item-icon" src="~assets/img/tabbar/order.svg" alt="">
-      <img slot="item-icon-active" src="~assets/img/tabbar/order_active.svg" alt="">
-      <div slot="item-text">历史</div>
+    <tab-bar-item path="/news">
+      <img slot="item-icon" src="~assets/img/tabbar/news.svg" alt="">
+      <img slot="item-icon-active" src="~assets/img/tabbar/news_active.svg" alt="">
+      <div slot="item-text">消息</div>
     </tab-bar-item>
     <tab-bar-item path="/profile">
       <img slot="item-icon" src="~assets/img/tabbar/profile.svg" alt="">

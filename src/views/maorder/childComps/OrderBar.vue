@@ -31,6 +31,7 @@ export default {
   methods: {
     active(index) {
       this.current = index;
+      this.$emit('tabClick',index)
     }
   }
 };

@@ -22,7 +22,7 @@
   }
 
   .left, .right {
-    width: 60px;
+    width: 80px;
   }
 
   .center {
